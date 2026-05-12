@@ -1,0 +1,21 @@
+{
+  "activity_id": 14,
+  "activity_title": "TestJavaWithDeploy",
+  "score": 100,
+  "max_score": 100,
+  "submitted_at": "2026-05-12T09:29:03.432Z",
+  "checkpoints": [
+    {
+      "id": 95,
+      "title": "Fix",
+      "type": "challenge",
+      "passed": true
+    },
+    {
+      "id": 96,
+      "title": "Fix",
+      "type": "challenge",
+      "passed": true
+    }
+  ]
+}
